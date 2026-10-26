@@ -1,224 +1,181 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sourodyuti%20Biswas%20Sanyal&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Builder%20%7C%20Researcher%20%7C%20Founder&descAlignY=55&descColor=a78bfa&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0f,100:ff4d00&height=190&section=header&text=Sourodyuti%20Biswas%20Sanyal&fontSize=40&fontColor=f6f4ef&fontAlignY=38&desc=Systems%20that%20see%2C%20think%2C%20and%20ship.&descAlignY=58&descColor=f6f4ef" width="100%" />
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=FF4D00&center=true&vCenter=true&width=720&lines=AI+%26+Computer+Vision+Researcher;Technical+Co-founder+%40+CURAA;Co-founder+%40+Curawave+LLP;IEEE+SPACE+2026+author+%C2%B7+COMSYS+H7+champion)](https://www.sourodyuti.me)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Managing+Partner+%40+CURAWAVE+LLP;Full-Stack+%7C+ML+%7C+Quant+Engineer;Knowledge+Distillation+%7C+Edge+AI;Institutional+Trading+Systems+Architect;19+y%2Fo+%E2%80%94+Velocity+is+my+default.+Vibe+is+my+differentiator.)](https://github.com/Sourodyuti)
-
-<br/>
-
+[![Portfolio](https://img.shields.io/badge/sourodyuti.me-FF4D00?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.sourodyuti.me)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sourodyutibs/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sourodyuti)
-[![X](https://img.shields.io/badge/X%2FTwitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SourodyutiBS)
-[![Curaa](https://img.shields.io/badge/CURAA-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://curaa.co.in)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/sourodyutibiswas)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-3809-9448)
+[![CURAA](https://img.shields.io/badge/CURAA-curaapets.com-141414?style=for-the-badge)](https://curaapets.com)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sourodyuti.biswas.sanyal.14@gmail.com)
 
 </div>
 
 ---
 
-## ⚡ About Me
+## About me
 
 ```python
 class Sourodyuti:
-    role        = "Managing Partner & Lead Architect — CURAWAVE LLP"
-    age         = 19
-    location    = "West Bengal, India 🇮🇳"
-    stacks      = ["Full-Stack", "ML/DL Research", "Quant Finance", "Systems Engineering"]
-    mantra      = "Velocity is my default. Vibe is my differentiator."
+    roles     = ["AI & computer-vision researcher", "Technical co-founder, CURAA", "Co-founder, Curawave LLP"]
+    studying  = "B.Tech CSE @ Techno India University, Kolkata (2024–2028)"
+    location  = "Durgapur → Kolkata, India"
+    open_to   = ["research", "internships", "collabs"]
+    mantra    = "Read the paper Friday, ship the implementation Monday."
 
-    def current_focus(self):
+    def now(self):
         return [
-            "🐾 Scaling CURAA — 5-microservice pet-care ecosystem",
-            "🧠 Teacher-Assistant-Student knowledge distillation (ViTs, CNNs)",
-            "📊 Institutional algo-trading: Delta Terminal & Bloomberg Quant Platform",
-            "🦀 Rust + Go high-performance backends",
+            "EdgeRF: sub-megabyte RF drone-controller identification (IEEE RadarConf 2027, in preparation)",
+            "CURAA: an AI smart collar that listens to what pets can't say (AIC-incubated)",
+            "VaaniKavach: on-device detection of AI voice-clone scam calls in Bengali & Hindi",
         ]
 ```
 
----
-
-## 🛠️ Tech Arsenal
-
-<div align="center">
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-
-**Frontend & Mobile**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
-![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-
-**Backend & Infra**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-
-**Data, ML & AI**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=flat-square&logo=onnx&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white)
-
-</div>
+I build intelligent systems at every scale — TinyML on a pet collar, a Rust trading terminal,
+published computer-vision research — and ship all of it myself: firmware, mobile, web, backend and ML.
 
 ---
 
-## 🚀 Flagship Projects
+## Highlights
+
+- 📄 **Paper accepted — IEEE SPACE 2026:** *Progressive Knowledge Distillation Framework for Military Vehicle Classification on Edge Devices.* A ResNet-18 student beats its ResNet-50 teacher (89.38%); the 1.6 MB TFLite model runs on Android in 100–300 ms.
+- 🏆 **Champion — COMSYS Hackathon 7** (COMSYS-2026): rank #1 on the public leaderboard (0.766) for multi-script handwritten segmentation & recognition.
+- 🖼️ **Top 5 Best Poster — IndiSetu Kolkata 2026:** liver-tumour segmentation on LiTS CT with a SLIC-superpixel Swin-UNet.
+- 🥉 **2nd Runner-Up, Best Actian Usage — HexaFalls 2.0** (JIS University) for Legilimens.
+- 🚀 **CURAA selected for the Atal Incubation Centre** cohort (2026).
+- 🎓 Grade O — AICTE × EduSkills AI/ML internship · BIT Mesra Leadership Bootcamp · Oracle Cloud & Google Cloud GenAI certified.
+
+---
+
+## Selected work
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🐾 CURAA Ecosystem
-**Pet-care hub-and-spoke platform**
-- 5-microservice architecture on Vercel
-- Two-Stage AI Vision Pipeline (NVIDIA Llama 3.3)
-- React + Flutter + Node.js + MongoDB + Redis
-- Razorpay subscriptions, FCM notifications
-- BIT Mesra Leadership Bootcamp 2026 ✦
+### 🐾 [CURAA](https://curaapets.com)
+**An AI collar that listens to what pets can't say.**
+Maps a dog's vocalizations and movement to behaviour patterns — coughing, scratching, barking, sleep and activity changes — processed on the paired phone. Firmware, TinyML bio-acoustic engine, Flutter app and Cloudflare backend.
 
-`Node.js` `React` `Flutter` `MongoDB` `Redis`
+`TinyML` `Flutter` `React` `Cloudflare Workers`
 
 </td>
 <td width="50%" valign="top">
 
-### 📈 Bloomberg Quant Platform
-**Bloomberg Terminal-inspired desktop app**
-- Rust (Axum) high-perf backtesting engine
-- Python FastAPI + SSE market data streaming
-- 7 asset classes: stocks, crypto, forex, commodities
-- TimescaleDB → SQLite local-first fallback
+### 📡 EdgeRF
+**Drone-controller identification for the edge.**
+One SNR-agnostic model identifies 17 RC controllers at 99.89% (prior best 95.62%) in a 0.59 MB INT8 model at ~2 ms per CPU inference — plus a leakage-aware re-evaluation of DroneRF.
 
-`Rust` `Python` `React` `TypeScript` `Tauri`
+`PyTorch` `RF signal processing` `INT8` `Kaggle`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Vision Knowledge Distillation
-**Teacher-Assistant-Student (TAS) framework**
-- Solves the Capacity Gap in model compression
-- KL Divergence logit harmonization
-- AMP + gradient clipping for stable distillation
-- CIFAR-100, MedMNIST, edge deployment configs
+### 🛡️ VaaniKavach
+**A bodyguard for your phone calls.**
+On-device sentinel that detects synthetic voices with a distilled anti-spoofing model, flags scam psychology in Bengali & Hindi, and turns every flag into a hash-chained evidence pack.
 
-`PyTorch` `ViT` `ResNet` `MobileNetV2` `TensorBoard`
+`AASIST → TFLite` `Kotlin` `Whisper`
 
 </td>
 <td width="50%" valign="top">
 
-### ⚡ Delta Terminal
-**Institutional algo-trading system**
-- Δ-THETA Options Engine (theta-harvesting)
-- Five-Gate regime filter: ADX, IV Rank, Vol Ratio…
-- 5-strategy Interference Engine blended into conviction
-- Runs on Ubuntu servers & ARM64/Termux
+### 🧠 Distillation Lab
+**Shrinking giant models until they fit in your pocket.**
+The research program behind the IEEE SPACE paper: progressive teacher → assistant → student distillation across CNNs and ViTs, validated on CIFAR-10, MedMNIST and a 6-class military vehicle dataset.
 
-`Python` `ONNX` `Flask` `Socket.IO` `AsyncIO`
+`PyTorch` `ViT` `Attention transfer` `ONNX`
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔬 3D Face Reconstruction
-**Monocular 3D mesh from single 2D image @ 30+ FPS**
-- 468 MediaPipe vertices + Delaunay triangulation
-- Laplacian smoothing & topological refinement
-- Multi-format export: OBJ, PLY, STL
+### ❤️ [HeartSense](https://github.com/workforakng/heartsense)
+**Your camera can hear your heartbeat.**
+Contactless heart rate, SpO₂, respiration, HRV and stress from 30 s of phone-camera video, fully offline. 1.64 BPM MAE on UBFC-rPPG.
 
-`Python` `MediaPipe` `OpenCV` `Open3D` `SciPy`
+`rPPG` `MediaPipe` `Kotlin` `Chaquopy`
 
 </td>
 <td width="50%" valign="top">
 
-### 🏦 FinLens
-**AI market intelligence terminal (NSE/BSE)**
-- LLaMA 3.1-8B sentiment scoring (-1.0 → +1.0)
-- Z-score volume anomaly detection (Z > 2.5)
-- LLaMA 3.1-70B earnings summarization
-- Kotak Neo live trading + Telegram alerting
+### 🎓 [Legilimens](https://github.com/Sourodyuti/Legilimens)
+**A confusion radar for live classrooms.**
+Students press one button when they're lost; the system returns a personalised voice explanation in seconds via hybrid BM25 + vector retrieval — fully on-prem.
 
-`FastAPI` `Next.js` `PostgreSQL` `Redis` `NVIDIA NIM`
+`FastAPI` `WebSockets` `sqlite-vec` `Next.js`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📈 Delta Terminal
+**A terminal for crypto derivatives. In Rust.**
+BTC/ETH futures & options: neural-ensemble inference, options chains with Greeks/IV/OI, and a headless CLI built so AI agents can operate it. ~90 MB RAM.
+
+`Rust` `WebSockets` `Options Greeks`
+
+</td>
+<td width="50%" valign="top">
+
+### 🏥 SehatKhata
+**India's medical records live in plastic bags. We replace the bag.**
+Offline-first, voice-first PWA that turns crumpled prescriptions into a health timeline with deterministic interaction and allergy checks. Built in a 36-hour hackathon.
+
+`Fastify` `Prisma` `NVIDIA NIM` `PWA`
 
 </td>
 </tr>
 </table>
 
 <details>
-<summary><b>🗂️ More Projects (click to expand)</b></summary>
+<summary><b>More projects</b></summary>
 
 <br/>
 
 | Project | Description | Stack |
 |---|---|---|
-| **Alpha Backtester** | Real-time quant options backtesting, 30+ indicators, GBM tick synthesis, Kelly Criterion sizing | Python, Flask, Socket.IO |
-| **VibeApp** | College dating app with WebSocket chat rooms, anti-ghosting engine, trust-score aggregator | Go, React Native, PostgreSQL |
-| **EtherSensAI** | Autonomous crypto market oracle, tri-phasic async loop, zero-day trend detection | Python, AsyncIO |
-| **Quantum Rx** | Visual drag-and-drop quantum circuit builder → IBM Quantum API | React, TypeScript, FastAPI |
-| **VeriFi** | Decentralized on-chain attendance & certificate verification with NFT minting | Solidity, Next.js, Web3.js |
-| **SAM 2 Scene Text** | Benchmarking Meta SAM 2.1 for zero-shot scene text segmentation on Total-Text | Python, PyTorch, CUDA |
-| **Marchintosh** | Custom Arch Linux live ISO with KDE Plasma, one-command installer, 70+ bundled packages | Bash, archiso, KDE |
-| **Svasthya Vault Care** | AI-powered personal health record platform, encrypted provider sharing | React, TypeScript, Tailwind |
-| **WildGuard AI** | Interactive biodiversity monitoring dashboard with Three.js 3D conservation zone | Three.js, Chart.js, PWA |
+| **Melt-Pool Vision** | Real-time melt-pool segmentation for directed-energy-deposition 3D printing, exported to ONNX for the edge | PyTorch, Fast-SCNN, ONNX |
+| **ResumeIQ AI** | [Live](https://resumeiq-ai-9qc.pages.dev) ATS rule engine + LLM critique that scores a resume like a recruiter | Next.js, Hono, Cloudflare Workers |
+| **3D Face Reconstruction** | Monocular 3D mesh from a single image at 30+ FPS, OBJ/PLY/STL export | MediaPipe, OpenCV, Open3D |
+| **FinLens** | AI market-intelligence terminal for NSE/BSE with sentiment scoring and volume-anomaly alerts | FastAPI, Next.js, PostgreSQL |
+| **Alpha Backtester** | Options backtesting with 30+ indicators and Kelly sizing | Python, Flask, Socket.IO |
+| **VibeApp** | College social app with WebSocket chat rooms and a trust-score aggregator | Go, React Native, PostgreSQL |
+| **Quantum Rx** | Drag-and-drop quantum circuit builder → IBM Quantum API | React, TypeScript, FastAPI |
+| **VeriFi** | On-chain attendance & certificate verification with NFT minting | Solidity, Next.js, Web3.js |
+| **Marchintosh** | Custom Arch Linux live ISO with KDE Plasma and a one-command installer | Bash, archiso |
 
 </details>
 
 ---
 
-## 📊 GitHub Stats
+## Toolbox
 
-<div align="center">
+**ML / Vision** — PyTorch · TensorFlow · OpenCV · YOLO · Swin / ViT · SAM2 · knowledge distillation · ONNX · TensorRT · TFLite
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sourodyuti&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourodyuti&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9&langs_count=8" height="165"/>
+**Edge / Hardware** — ESP32 / ESP8266 · TinyML · TFLite Micro · FreeRTOS · BLE · embedded Rust
 
-<br/>
+**Full-stack** — TypeScript · React / Next.js · Flutter · Kotlin · Hono · FastAPI · Cloudflare Workers · PostgreSQL · Redis · Docker
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sourodyuti&theme=midnight-purple&hide_border=true&background=0D1117&stroke=A78BFA&ring=A78BFA&fire=FF6B6B&currStreakLabel=A78BFA" height="165"/>
-
-</div>
-
----
-
-## 🏆 Highlights
-
-- 🏕️ **BIT Mesra Leadership Bootcamp 2026** — selected for go-to-market acceleration
-- 🧪 **25+ active repositories** spanning AI research, trading systems, full-stack apps & systems tools
-- 📉 **94% model parameter compression** achieved with cross-arch knowledge distillation (EfficientNet-B0 student outperforming its teacher)
-- 🚀 **Production systems** running in live markets and serving real users at [curaa.co.in](https://curaa.co.in)
+**Systems / Quant** — Rust · Python · C++ · Go · options Greeks · market microstructure · backtesting
 
 ---
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Sourodyuti&show_icons=true&hide_border=true&bg_color=0d0d0f&title_color=ff4d00&icon_color=ff4d00&text_color=f2efe9&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sourodyuti&layout=compact&hide_border=true&bg_color=0d0d0f&title_color=ff4d00&text_color=f2efe9&langs_count=8" height="165"/>
 
-*"The only way to do great work is to love what you build."*
+<img src="https://streak-stats.demolab.com?user=Sourodyuti&hide_border=true&background=0d0d0f&ring=ff4d00&fire=ff4d00&currStreakLabel=f2efe9&sideLabels=a19d96&dates=a19d96&currStreakNum=f2efe9&sideNums=f2efe9" height="165"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff4d00,100:0d0d0f&height=100&section=footer" width="100%" />
+
+*Read the paper Friday, ship the implementation Monday.*
 
 </div>
